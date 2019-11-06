@@ -1,7 +1,9 @@
 # turbo-succotash
-xTeam project proposali
+xTeam project proposal
 
-Title: Quizy
+Members: Trask Crane, Christopher Durjak, Hari Jayaprakash, Nikhilesh Venkatasubramanian 
+
+Title: Quizzy
 
 Problem: Minimalist study helper without any distractions for college students studying for midterms and finals.
 

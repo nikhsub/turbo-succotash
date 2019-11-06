@@ -11,6 +11,7 @@ GUI:
 
 Data Structure: The primary data structure would be an ArrayList of LinkedLists
 
-Input Data File Format:
+Input Data File Format: The program would be able to read data from a CSV file
+in addition to being able to read JSON files.
 
 Output Example:
